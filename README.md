@@ -17,7 +17,7 @@ _This exercise was used to showcase the effects of an external style sheet on HT
 
 - _Clone this repository to your desktop._
 - _Navigate to the top level of the directory._
-- _Open cupcake-shop/index.html_
+- _Open my-first-webpage/index.html_
 
 ## Known Bugs
 
